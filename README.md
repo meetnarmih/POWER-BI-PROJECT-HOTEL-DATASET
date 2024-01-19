@@ -25,3 +25,6 @@ Aim of the project is to analyze the dataset of hotel bookings and extract actio
 -  The following power bi features were incorporated: DAX, Quick measure, page navigation, filters, slicers.
 
 # Analysis
+Average and total booking price
+![](AVG_TOTAL_BOOKING_PRICE.png)
+
