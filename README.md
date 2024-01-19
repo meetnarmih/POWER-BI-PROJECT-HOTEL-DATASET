@@ -28,3 +28,14 @@ Aim of the project is to analyze the dataset of hotel bookings and extract actio
 Average and total booking price
 ![](AVG_TOTAL_BOOKING_PRICE.png)
 
+Number of booking per year
+![](AVG_TOTAL_BOOKING_PRICE.png)
+
+Top 10 booked hotel and most expensive hotel
+![](TOP_10_BOOKED_HOTEL.png)
+
+Hotel rating by Gender
+![](RATING_GENDER.png)
+
+Booking by Gender
+
