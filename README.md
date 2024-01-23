@@ -8,15 +8,17 @@ Aim of the project is to analyze the dataset of hotel bookings and extract actio
 **Disclaimer: All datasets and reports do not represent any company, institution or country, ut just a dummy dataset to demonstrate capabilities of Power Bi.**
 
 # Problem Statement
-- number of days spent per year
 - average booking price
 - total booking price
-- the highest and average days booked
+- average booking price based on gender
 - top 10 most booked hotel
 - varience by highest rating based on gender
-- most used payment method by country of origin
+- most used payment method
 - most expensive hotel
 - bookings by gender
+- number of days spent per year
+- number of days spent based on eachh country of origin
+- profit margin based on top 10
 
   # Skills Demonstrated
   I used Microsoft Excel and Power Bi for visualizing hotel dataset.
@@ -25,16 +27,22 @@ Aim of the project is to analyze the dataset of hotel bookings and extract actio
 -  The following power bi features were incorporated: DAX, Quick measure, page navigation, filters, slicers.
 
 # Analysis
-Average and total booking price
+**Average and total booking price**
+The average booking price is 683(spg) while the total revenue/booking price is 45.471(spg)
+
 ![](AVG_TOTAL_BOOKING_PRICE.png)
 
-Number of booking per year
+**Average booking price based on gender**
+
 ![](AVG_TOTAL_BOOKING_PRICE.png)
 
-Top 10 booked hotel and most expensive hotel
+**Top 10 booked hotel and most expensive hotel**
+From the visualization below, GRAND HYATT Hotel is the most booked based on the total revenue generated between 2010 to 2019
+
 ![](TOP_10_BOOKED_HOTEL.png)
 
-Hotel rating by Gender
+**Hotel rating by Gender and Varience based on Gender**
+
 ![](RATING_GENDER.png)
 
 Booking by Gender
