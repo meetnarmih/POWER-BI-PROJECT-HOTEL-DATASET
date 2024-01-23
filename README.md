@@ -13,12 +13,13 @@ Aim of the project is to analyze the dataset of hotel bookings and extract actio
 - average booking price based on gender
 - top 10 most booked hotel
 - varience by highest rating based on gender
-- most used payment method
 - most expensive hotel
 - bookings by gender
 - number of days spent per year
-- number of days spent based on eachh country of origin
+- total number of days used per year based on each country of origin
 - profit margin based on top 10
+- country of origin bookings distribution over the year
+- most used payment method
 
   # Skills Demonstrated
   I used Microsoft Excel and Power Bi for visualizing hotel dataset.
@@ -49,6 +50,33 @@ From the visualization below, GRAND HYATT Hotel is the most booked based on the 
 There are more of Female customers than male customers
 
 ![](BOOKING_GENDER2)
+
+**Number of days spent per year**
+
+![](NUMBER_OF_DAYS_PERYEAR6)
+
+**Total number of days used per year based on each country of origin**
+
+![](NUMBER_OF_DAYS_PERYEAR6)
+
+**Profit margin based on top 10**
+
+![](PROFIT_MARGIN_HOTEL)
+
+**Country of origin bookings distribution over the year**
+It can be said that Thailand travled the most among the Country of origin
+
+![](COUNTRY_ORIGIN_DISTRI1)
+
+**Most used payment method**
+
+![](USED_PYT_METHOD4)
+
+
+
+
+
+
 
 
 
