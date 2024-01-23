@@ -45,5 +45,10 @@ From the visualization below, GRAND HYATT Hotel is the most booked based on the 
 
 ![](RATING_GENDER.png)
 
-Booking by Gender
+**Booking by Gender**
+There are more of Female customers than male customers
+
+![](BOOKING_GENDER2)
+
+
 
