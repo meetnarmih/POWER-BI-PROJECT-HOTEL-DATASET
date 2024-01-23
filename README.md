@@ -1,7 +1,7 @@
 # POWER-BI-PROJECT-HOTEL-DATASET
 
 # Introduction
-This is a Power BI project to enhance/track customer preferences and behaviour (i.e hotel name, hotel preference, total booking price...) within a certain period (2010 - 2019). **The link to the dataset is embedded** https://datafrik.co/#/datasets
+This is a Power BI project to enhance/track customer preferences and behaviour (i.e hotel name, hotel preference, total booking price...) within a certain period (2010 - 2019). **The link to the dataset is embedded** (https://datafrik.co/#/datasets)
 
 The aim of the project is to analyze the dataset of hotel bookings and extract actionable insights to optimize the company's services for international travelers. The dataset consists of Hotel and their Booking information. It contains 24 columns, 66,541 rows and the data year range is from January 2010 to December 2019 showing information about 614 hotels.
 
