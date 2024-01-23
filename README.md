@@ -3,9 +3,10 @@
 # Introduction
 This is a Power BI project to enhance/track customer preferences and behaviour (i.e hotel name, hotel preference, total booking price...) within a certain period (2010 - 2019). **The link to the dataset is embedded**
 
-The aim of the project is to analyze the dataset of hotel bookings and extract actionable insights to optimize the company's services for international travelers. The dataset contains Hotel and their Booking information. It contains 24 columns and 66,541 rows and the data year range is from January 2010 to December 2019 showing information about 614 hotels.
+The aim of the project is to analyze the dataset of hotel bookings and extract actionable insights to optimize the company's services for international travelers. The dataset consists of Hotel and their Booking information. It contains 24 columns and 66,541 rows and the data year range is from January 2010 to December 2019 showing information about 614 hotels.
 
 **Disclaimer: All datasets and reports do not represent any company, institution or country, but just a dummy dataset to demonstrate capabilities of Power Bi.**
+SPG represents the currency
 
 # Problem Statement
 - average booking price
